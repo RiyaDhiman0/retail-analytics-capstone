@@ -1,0 +1,10 @@
+name: retail_analytics
+type: dbt
+version: '1.0'
+config-version: 2
+profile: retail_analytics
+model-paths: [models]
+test-paths: [tests]
+models:
+  retail_analytics:
+    +materialized: view

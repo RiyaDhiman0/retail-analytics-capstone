@@ -1,0 +1,21 @@
+store_id,store_name,region,manager_name
+1,Store-01,North,Adya Raj
+2,Store-02,South,Upadhriti Pathak
+3,Store-03,East,Pallavi Kumar
+4,Store-04,West,Vedhika Choudhury
+5,Store-05,North,Ati Magar
+6,Store-06,South,Megha Jain
+7,Store-07,East,Riya Kapur
+8,Store-08,West,Warjas Mahajan
+9,Store-09,North,Daniel Agrawal
+10,Store-10,South,Chavvi Yadav
+11,Store-11,East,Meghana Bali
+12,Store-12,West,Ayush Oak
+13,Store-13,North,Urvi Sarna
+14,Store-14,South,Yashica Baria
+15,Store-15,East,Gaurang Balay
+16,Store-16,West,Hema Sama
+17,Store-17,North,Nihal Seth
+18,Store-18,South,Devansh Nath
+19,Store-19,East,Upadhriti Kala
+20,Store-20,West,Aarav Bhatia

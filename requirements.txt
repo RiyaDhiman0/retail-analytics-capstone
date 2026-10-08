@@ -1,0 +1,13 @@
+pandas>=2.2
+numpy>=1.26
+sqlalchemy>=2.0
+psycopg2-binary>=2.9
+kafka-python>=2.0
+faker>=25.0
+streamlit>=1.38
+plotly>=5.24
+dbt-postgres>=1.9
+apache-airflow>=2.9
+fastavro>=1.9
+
+python-dotenv>=1.0

@@ -1,0 +1,21 @@
+# Stipend Submission Checklist
+
+- [ ] End-to-end architecture diagram included
+- [ ] Kafka producer demonstrated
+- [ ] Kafka topics shown by region
+- [ ] Consumer and idempotency demonstrated
+- [ ] DLQ created and replay explained
+- [ ] Bronze/Silver/Gold row counts captured
+- [ ] Star schema diagram included
+- [ ] SCD Type 2 explained
+- [ ] dbt models + tests run
+- [ ] dbt DAG screenshot captured
+- [ ] Dashboard screenshots captured
+- [ ] RLS demonstrated with regional and national roles
+- [ ] EXPLAIN before/after evidence captured
+- [ ] Data-quality suite output captured
+- [ ] SLA monitoring output captured
+- [ ] PII masking demonstrated
+- [ ] Data catalogue/lineage included
+- [ ] Final report exported to PDF
+- [ ] Demo video recorded if allowed

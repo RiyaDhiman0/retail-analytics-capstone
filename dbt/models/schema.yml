@@ -1,0 +1,20 @@
+version: 2
+sources:
+  - name: raw
+    schema: raw
+    tables:
+      - name: sales_events
+        columns:
+          - name: event_id
+            tests: [not_null, unique]
+          - name: region
+            tests: [not_null]
+models:
+  - name: stg_sales
+    columns:
+      - name: event_id
+        tests: [not_null, unique]
+      - name: quantity
+        tests: [not_null]
+      - name: revenue
+        tests: [not_null]

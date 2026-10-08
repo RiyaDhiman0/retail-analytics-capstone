@@ -1,0 +1,10 @@
+{
+  "type":"record","name":"SaleEvent","namespace":"retail.analytics",
+  "fields":[
+    {"name":"event_id","type":"string"},{"name":"event_ts","type":"string"},
+    {"name":"store_id","type":"int"},{"name":"region","type":"string"},
+    {"name":"product_id","type":"int"},{"name":"customer_id","type":["null","int"],"default":null},
+    {"name":"quantity","type":"int"},{"name":"unit_price","type":"double"},
+    {"name":"payment_method","type":["null","string"],"default":null}
+  ]
+}
